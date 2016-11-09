@@ -18,7 +18,8 @@ public class JavaApplication1 {
       int s1=2;
       int s2=3;
 int s;
-s=s1+s2;
+        int s3 = s1+s2;
+s=s3+s1;
 //
         System.out.println(s);// TODO code application logic here
     }
